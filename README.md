@@ -9,3 +9,7 @@ django-admin startproject setup .
 python manage.py runserver
 
 pip install python-dotenv
+
+
+
+python manage.py collectstatic
